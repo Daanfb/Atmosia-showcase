@@ -44,3 +44,7 @@ A modern, user-friendly, native Android application built in **Kotlin** with **J
 | <img src="screenshots/active_session.png" alt="active session" width="200"/> | <img src="screenshots/manage_tracks.png" alt="Manage tracks" width="200"/> | <img src="screenshots/notification.png" alt="Session notification" width="200"/> |
 | **Session paused**| |  |
 | <img src="screenshots/paused_session.png" alt="session paused" width="200"/> |  |  |
+
+## 📞 Contact
+
+**Daniel Frías** - [danielfb2312@gmail.com](mailto:danielfb2312@gmail.com) - [LinkedIn Profile](https://www.linkedin.com/in/daniel-frias-balbuena/)
