@@ -29,6 +29,7 @@ A modern, user-friendly, native Android application built in **Kotlin** with **J
 | **Local Database**        | Room                                   |
 | **Audio**                 | ExoPlayer (Media3)                     |
 | **Foreground Service**    | Media Session                          |
+| **Monetization**          | Google AdMob                           |
 | **Analytics**             | Firebase Analytics                     |
 | **Crash Reporting**       | Firebase Crashlytics                   |
 | **Wave Animation**        | Rive                                   |
