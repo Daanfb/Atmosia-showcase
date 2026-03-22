@@ -10,8 +10,11 @@ A modern, user-friendly, native Android application built in **Kotlin** with **J
 ## 📱 Features
 
 * **Extensive Sound Library**: Access over 50 high-fidelity ambient sounds neatly categorized into Water, Animals, Transport, and Indoor environments.
+* **Secure User Authentication**: Sign up and log in seamlessly using your Email or Google Account.
+* **Account Management**: Includes essential user flows such as Password Reset and the ability to permanently delete your account and data, ensuring full GDPR/Google Play compliance.
 * **Custom Audio Mixer**: Combine multiple sounds simultaneously and adjust the volume of each track independently to create your perfect atmosphere.
 * **Ready-made Mixes**: Enjoy expertly crafted, predefined atmospheres designed for specific moments: Sleep, Focus, Nature, and Travel.
+* **Cloud Sync & Storage**: Your custom sound mixes are automatically saved in Firestore, allowing you to access your personal library from any device, anytime.
 * **Smart Sleep Timer**: Fall asleep without worries by setting a custom timer to gently stop the audio playback and save battery life.
 * **Background Playback**: Keep listening to your relaxing mixes even when the screen is off or while using other apps.
 * **Media Notification Controls**: Control your active mixes (pause, resume, or stop) directly from the system's media session notification.
@@ -26,7 +29,9 @@ A modern, user-friendly, native Android application built in **Kotlin** with **J
 | **Architecture**          | MVVM & Clean Architecture              |
 | **Dependency Injection**  | Koin                                   |
 | **Navigation**            | Compose Navigation                     |
+| **Authentication**        | Firebase Auth (Email & Google)         |
 | **Local Database**        | Room                                   |
+| **Cloud Database**        | Firebase Firestore                     |
 | **Audio**                 | ExoPlayer (Media3)                     |
 | **Foreground Service**    | Media Session                          |
 | **Monetization**          | Google AdMob                           |
