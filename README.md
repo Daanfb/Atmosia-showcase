@@ -36,15 +36,15 @@ A modern, user-friendly, native Android application built in **Kotlin** with **J
 
 ## 📸 Screenshots
 
-| **Home** | **Audio Mixer - No Sounds** | **Sounds Selector** |
-|:---:|:---:|:---:|
-| <img src="screenshots/home_screen.png" alt="Home screen" width="200"/> | <img src="screenshots/custom_mix_no_sounds.png" alt="Audio mixer - no sounds" width="200"/> | <img src="screenshots/sounds_selector.png" alt="Sounds selector" width="200"/> |
-| **Chorometer - No Session Started**| **Timer - No timer set** | **Set time** |
-| <img src="screenshots/chrono_session_no_started.png" alt="chronometer session not started" width="200"/> | <img src="screenshots/timer_session_no_started.png" alt="Timer session with no time set" width="200"/> | <img src="screenshots/timer_screen.png" alt="Set time" width="200"/> |
-| **Timer - Session started**| **Manage tracks** | **Notification** |
-| <img src="screenshots/active_session.png" alt="active session" width="200"/> | <img src="screenshots/manage_tracks.png" alt="Manage tracks" width="200"/> | <img src="screenshots/notification.png" alt="Session notification" width="200"/> |
-| **Session paused**| |  |
-| <img src="screenshots/paused_session.png" alt="session paused" width="200"/> |  |  |
+| **Explore** | **Login to access** | **Sign in** | **No mixes created** |
+|:---:|:---:|:---:|:---:|
+| <img src="screenshots/explore_screen.png" alt="Explore screen" width="200"/> | <img src="screenshots/login_to_access_mix.png" alt="Login to access to your mixes" width="200"/> | <img src="screenshots/sign_in.png" alt="Sign in" width="200"/> | <img src="screenshots/no_mixes.png" alt="No mixes created" width="200"/> |
+| **Audio Mixer - No Sounds** | **Sounds Selector** | **Chorometer - No Session Started** | **Save mix** |
+| <img src="screenshots/custom_mix_no_sounds.png" alt="Audio mixer - no sounds" width="200"/> | <img src="screenshots/sounds_selector.png" alt="Sounds selector" width="200"/> | <img src="screenshots/chrono_session_no_started.png" alt="Chronometer session not started" width="200"/> | <img src="screenshots/save_mix.png" alt="Save mix dialog" width="200"/> |
+| **Timer - No timer set** | **Set time** | **Timer - Session started** | **Manage tracks** |
+| <img src="screenshots/timer_session_no_started.png" alt="Timer session with no time set" width="200"/> | <img src="screenshots/timer_screen.png" alt="Set time" width="200"/> | <img src="screenshots/active_session.png" alt="active session" width="200"/> | <img src="screenshots/manage_tracks.png" alt="Manage tracks" width="200"/> |
+| **Notification** | **Session paused** | **My mixes** | **My mix - Options** |
+| <img src="screenshots/notification.png" alt="Session notification" width="200"/> | <img src="screenshots/paused_session.png" alt="session paused" width="200"/> | <img src="screenshots/my_mixes.png" alt="My mixes screen" width="200"/> | <img src="screenshots/my_mix_options.png" alt="My mix - Options bottom sheet" width="200"/> |
 
 ## 📞 Contact
 
