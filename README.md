@@ -1,6 +1,6 @@
 # Atmosia: Relaxing Sounds
 
-A modern, user-friendly, native Android application built in **Kotlin** with **Jetpack Compose**. It allows users to combine over 50 ambient sounds into custom relaxing mixes, offering an immersive user experience designed to reduce stress, beat insomnia, and boost productivity.
+A modern, user-friendly, native Android application built in **Kotlin** with **Jetpack Compose**. It allows users to combine over 80 ambient sounds into custom relaxing mixes, offering an immersive user experience designed to reduce stress, beat insomnia, and boost productivity.
 
 <a href="https://play.google.com/store/apps/details?id=com.danfb.atmosia">
   <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="240"/>
@@ -8,7 +8,7 @@ A modern, user-friendly, native Android application built in **Kotlin** with **J
 
 ## 📱 Features
 
-* **Extensive Sound Library**: Access over 50 high-fidelity ambient sounds neatly categorized into Water, Animals, Transport, and Indoor environments.
+* **Extensive Sound Library**: Access over 80 high-fidelity ambient sounds neatly categorized into Water, Nature, Animals, Transport, and Indoor environments.
 * **Secure User Authentication**: Sign up and log in seamlessly using your Email or Google Account.
 * **Account Management**: Includes essential user flows such as Password Reset and the ability to permanently delete your account and data, ensuring full GDPR/Google Play compliance.
 * **Custom Audio Mixer**: Combine multiple sounds simultaneously and adjust the volume of each track independently to create your perfect atmosphere.
@@ -17,6 +17,7 @@ A modern, user-friendly, native Android application built in **Kotlin** with **J
 * **Smart Sleep Timer**: Fall asleep without worries by setting a custom timer to gently stop the audio playback and save battery life.
 * **Background Playback**: Keep listening to your relaxing mixes even when the screen is off or while using other apps.
 * **Media Notification Controls**: Control your active mixes (pause, resume, or stop) directly from the system's media session notification.
+* **In-app Review**: Support in-app review to increase the change the user leave a review.
 * **TalkBack Support**: Fully optimized for accessibility to ensure a great experience for all users.
 * **Multiple Languages Supported**: The application is fully localized and available in English, Spanish, Portuguese, Italian, and French.
 
