@@ -17,7 +17,9 @@ A modern, user-friendly, native Android application built in **Kotlin** with **J
 * **Smart Sleep Timer**: Fall asleep without worries by setting a custom timer to gently stop the audio playback and save battery life.
 * **Background Playback**: Keep listening to your relaxing mixes even when the screen is off or while using other apps.
 * **Media Notification Controls**: Control your active mixes (pause, resume, or stop) directly from the system's media session notification.
+* **Open app reminder Notification**: Notification that trigger after a period of inactivity to ensure your app stays part of the user's routine.
 * **In-app Review**: Support in-app review to increase the change the user leave a review.
+* **In-app Update**: Support in-app update to provide a seamless way for users to stay up-to-date.
 * **TalkBack Support**: Fully optimized for accessibility to ensure a great experience for all users.
 * **Multiple Languages Supported**: The application is fully localized and available in English, Spanish, Portuguese, Italian, and French.
 
@@ -34,6 +36,7 @@ A modern, user-friendly, native Android application built in **Kotlin** with **J
 | **Cloud Database**        | Firebase Firestore                     |
 | **Audio**                 | ExoPlayer (Media3)                     |
 | **Foreground Service**    | Media Session                          |
+| **Reminder Notification** |	WorkManager                            |
 | **Monetization**          | Google AdMob                           |
 | **Analytics**             | Firebase Analytics                     |
 | **Crash Reporting**       | Firebase Crashlytics                   |
@@ -50,6 +53,8 @@ A modern, user-friendly, native Android application built in **Kotlin** with **J
 | <img src="screenshots/timer_session_no_started.png" alt="Timer session with no time set" width="200"/> | <img src="screenshots/timer_screen.png" alt="Set time" width="200"/> | <img src="screenshots/active_session.png" alt="active session" width="200"/> | <img src="screenshots/manage_tracks.png" alt="Manage tracks" width="200"/> |
 | **Notification** | **Session paused** | **My mixes** | **My mix - Options** |
 | <img src="screenshots/notification.png" alt="Session notification" width="200"/> | <img src="screenshots/paused_session.png" alt="session paused" width="200"/> | <img src="screenshots/my_mixes.png" alt="My mixes screen" width="200"/> | <img src="screenshots/my_mix_options.png" alt="My mix - Options bottom sheet" width="200"/> |
+| **In-app Update** |  |  |  |
+| <img src="screenshots/in-app_update.png" alt="In-app update" width="200"/> |  |  |  |
 
 ## 📞 Contact
 
