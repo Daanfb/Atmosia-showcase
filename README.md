@@ -20,6 +20,7 @@ A modern, user-friendly, native Android application built in **Kotlin** with **J
 * **Open app reminder Notification**: Notification that trigger after a period of inactivity to ensure your app stays part of the user's routine.
 * **In-app Review**: Support in-app review to increase the change the user leave a review.
 * **In-app Update**: Support in-app update to provide a seamless way for users to stay up-to-date.
+* **In-app Subscription**: Subscription management integrated via RevenueCat to handle premium tiers.
 * **TalkBack Support**: Fully optimized for accessibility to ensure a great experience for all users.
 * **Multiple Languages Supported**: The application is fully localized and available in English, Spanish, Portuguese, Italian, and French.
 
@@ -37,7 +38,8 @@ A modern, user-friendly, native Android application built in **Kotlin** with **J
 | **Audio**                 | ExoPlayer (Media3)                     |
 | **Foreground Service**    | Media Session                          |
 | **Reminder Notification** |	WorkManager                            |
-| **Monetization**          | Google AdMob                           |
+| **Ads**                   | Google AdMob                           |
+| **Subscription**          | RevenueCat                             |
 | **Analytics**             | Firebase Analytics                     |
 | **Crash Reporting**       | Firebase Crashlytics                   |
 | **Wave Animation**        | Rive                                   |
