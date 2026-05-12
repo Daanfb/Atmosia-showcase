@@ -2,6 +2,8 @@
 
 A modern, user-friendly, native Android application built in **Kotlin** with **Jetpack Compose**. It allows users to combine over 80 ambient sounds into custom relaxing mixes, offering an immersive user experience designed to reduce stress, beat insomnia, and boost productivity.
 
+Visit the [Atmosia Landing Page](https://atmosia-ae339.web.app/) to explore all features.
+
 <a href="https://play.google.com/store/apps/details?id=com.danfb.atmosia">
   <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="240"/>
 </a>
