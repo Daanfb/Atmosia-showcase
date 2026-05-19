@@ -1,6 +1,6 @@
 # Atmosia: Relaxing Sounds
 
-A modern, user-friendly, native Android application built in **Kotlin** with **Jetpack Compose**. It allows users to combine over 80 ambient sounds into custom relaxing mixes, offering an immersive user experience designed to reduce stress, beat insomnia, and boost productivity.
+A modern, user-friendly, native Android application built in **Kotlin** with **Jetpack Compose**. It allows users to combine over 90 ambient sounds into custom relaxing mixes, offering an immersive user experience designed to reduce stress, beat insomnia, and boost productivity.
 
 Visit the [Atmosia Landing Page](https://atmosia-ae339.web.app/) to explore all features.
 
@@ -10,7 +10,7 @@ Visit the [Atmosia Landing Page](https://atmosia-ae339.web.app/) to explore all 
 
 ## 📱 Features
 
-* **Extensive Sound Library**: Access over 80 high-fidelity ambient sounds neatly categorized into Water, Nature, Animals, Transport, and Indoor environments.
+* **Extensive Sound Library**: Access over 90 high-fidelity ambient sounds neatly categorized into Water, Nature, Animals, Transport, and Indoor environments.
 * **Secure User Authentication**: Sign up and log in seamlessly using your Email or Google Account.
 * **Account Management**: Includes essential user flows such as Password Reset and the ability to permanently delete your account and data, ensuring full GDPR/Google Play compliance.
 * **Custom Audio Mixer**: Combine multiple sounds simultaneously and adjust the volume of each track independently to create your perfect atmosphere.
@@ -24,7 +24,7 @@ Visit the [Atmosia Landing Page](https://atmosia-ae339.web.app/) to explore all 
 * **In-app Update**: Support in-app update to provide a seamless way for users to stay up-to-date.
 * **In-app Subscription**: Subscription management integrated via RevenueCat to handle premium tiers.
 * **TalkBack Support**: Fully optimized for accessibility to ensure a great experience for all users.
-* **Multiple Languages Supported**: The application is fully localized and available in English, Spanish, Portuguese, Italian, and French.
+* **Multiple Languages Supported**: The application is fully localized and available in English, Spanish, Portuguese, Italian, French, German, Dutch, Romanian, Indonesian, Turkish, Hindi and Arabic (support RTL language).
 
 ## 🛠️ Tech Stack
 
