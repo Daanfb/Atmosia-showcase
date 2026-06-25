@@ -1,6 +1,6 @@
 # Atmosia: Relaxing Sounds
 
-A modern, user-friendly, native Android application built in **Kotlin** with **Jetpack Compose**. It allows users to combine over 90 ambient sounds into custom relaxing mixes, offering an immersive user experience designed to reduce stress, beat insomnia, and boost productivity.
+A modern, user-friendly, native Android application built in **Kotlin** with **Jetpack Compose**. It allows users to combine over 100 ambient sounds into custom relaxing mixes, offering an immersive user experience designed to reduce stress, beat insomnia, and boost productivity.
 
 Visit the [Atmosia Landing Page](https://atmosia-ae339.web.app/) to explore all features.
 
@@ -15,6 +15,7 @@ Visit the [Atmosia Landing Page](https://atmosia-ae339.web.app/) to explore all 
 * **Account Management**: Includes essential user flows such as Password Reset and the ability to permanently delete your account and data, ensuring full GDPR/Google Play compliance.
 * **Custom Audio Mixer**: Combine multiple sounds simultaneously and adjust the volume of each track independently to create your perfect atmosphere.
 * **Ready-made Mixes**: Enjoy expertly crafted, predefined atmospheres designed for specific moments: Sleep, Focus, Nature, and Travel.
+* **Auto-generate Mix**: Quickly create a mix according to your desired goal (deep sleep, study, chill, escapade, cozy vibes...).
 * **Cloud Sync & Storage**: Your custom sound mixes are automatically saved in Firestore, allowing you to access your personal library from any device, anytime.
 * **Time Management**: Choose between timer, stopwatch and pomodoro timer.
 * **Background Playback**: Keep listening to your relaxing mixes even when the screen is off or while using other apps.
